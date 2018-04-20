@@ -1,0 +1,18 @@
+C:\Users\Javier Escobar\source\repos\proyecto de proquimicos\proyecto de proquimicos\bin\Debug\proyecto de proquimicos.exe.config
+C:\Users\Javier Escobar\source\repos\proyecto de proquimicos\proyecto de proquimicos\bin\Debug\proyecto de proquimicos.exe
+C:\Users\Javier Escobar\source\repos\proyecto de proquimicos\proyecto de proquimicos\bin\Debug\proyecto de proquimicos.pdb
+C:\Users\Javier Escobar\source\repos\proyecto de proquimicos\proyecto de proquimicos\obj\Debug\proyecto de proquimicos.csprojResolveAssemblyReference.cache
+C:\Users\Javier Escobar\source\repos\proyecto de proquimicos\proyecto de proquimicos\obj\Debug\proyecto_de_proquimicos.Form1.resources
+C:\Users\Javier Escobar\source\repos\proyecto de proquimicos\proyecto de proquimicos\obj\Debug\proyecto_de_proquimicos.Properties.Resources.resources
+C:\Users\Javier Escobar\source\repos\proyecto de proquimicos\proyecto de proquimicos\obj\Debug\proyecto de proquimicos.csproj.GenerateResource.cache
+C:\Users\Javier Escobar\source\repos\proyecto de proquimicos\proyecto de proquimicos\obj\Debug\proyecto de proquimicos.csproj.CoreCompileInputs.cache
+C:\Users\Javier Escobar\source\repos\proyecto de proquimicos\proyecto de proquimicos\obj\Debug\proyecto de proquimicos.exe
+C:\Users\Javier Escobar\source\repos\proyecto de proquimicos\proyecto de proquimicos\obj\Debug\proyecto de proquimicos.pdb
+C:\Users\Javier Escobar\source\repos\proyecto de proquimicos\proyecto de proquimicos\obj\Debug\proyecto de proquimicos.csproj.ResolveComReference.cache
+C:\Users\Javier Escobar\source\repos\proyecto de proquimicos\proyecto de proquimicos\bin\Debug\itextsharp.dll
+C:\Users\Javier Escobar\source\repos\proyecto de proquimicos\proyecto de proquimicos\bin\Debug\Microsoft.Office.InfoPath.Client.Internal.CLRHost.dll
+C:\Users\Javier Escobar\source\repos\proyecto de proquimicos\proyecto de proquimicos\bin\Debug\Microsoft.Office.InfoPath.FormControl.dll
+C:\Users\Javier Escobar\source\repos\proyecto de proquimicos\proyecto de proquimicos\bin\Debug\stdole.dll
+C:\Users\Javier Escobar\source\repos\proyecto de proquimicos\proyecto de proquimicos\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Contract.dll
+C:\Users\Javier Escobar\source\repos\proyecto de proquimicos\proyecto de proquimicos\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Adapter.dll
+C:\Users\Javier Escobar\source\repos\proyecto de proquimicos\proyecto de proquimicos\obj\Debug\proyecto de proquimicos.csproj.CopyComplete
